@@ -14,3 +14,24 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 
 Yep!
 
+{% hint style="info" %}
+Let's test the markdown of this callout.
+{% endhint %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+Markdown of tab one
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Markdown of tab two
+{% endtab %}
+{% endtabs %}
+
+| Markdown Header | Test Header |
+| :--- | :--- |
+| Markdown content | Test content |
+| Markdown content 2 | Test content 2 |
+
+
+
